@@ -70,6 +70,18 @@ body {
   filter: drop-shadow(0 0 0.2rem #000);
 }
 
+.onorifico {
+  position: absolute;
+  top: 56vh;
+  font-size: 1.3rem;
+  font-weight: 300;
+  letter-spacing: 0.07rem;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%);
+  filter: drop-shadow(0 0 0.2rem #000);
+}
+
 .mail {
   position: absolute;
   top: 51vh;
