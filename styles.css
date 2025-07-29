@@ -80,7 +80,7 @@ body {
   margin-right: -50%;
   transform: translate(-50%);
   filter: drop-shadow(0 0 0.2rem #000);
-}
+}}
 
 .mail {
   position: absolute;
