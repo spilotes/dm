@@ -74,7 +74,7 @@ body {
 .glitch {
   position: relative;
   font-size: 1.6rem;
-  font-family: "arial black", cursive;
+  font-family: "arial", cursive;
   font-weight: 500;
   letter-spacing: 0.1rem;
   color: #c9d1d9;
